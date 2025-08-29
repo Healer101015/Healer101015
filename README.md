@@ -4,7 +4,9 @@
   <a href="https://github.com/joao-henrique">
     <img src="https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="GitHub Stats"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <a href="https://github.com/joao-henrique">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
