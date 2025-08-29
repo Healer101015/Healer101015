@@ -1,49 +1,62 @@
-# 👋 Fala aí, eu sou o João Henrique!
+# 👋 Olá, eu sou o João Henrique!
 
-Bem-vindo ao meu espaço no Git 🚀  
-Aqui é onde eu deixo meus projetos, estudos e algumas ideias malucas que saem do papel.  
+<a href="https://github.com/joao-henrique">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight&rank_icon=github" alt="João Henrique's GitHub stats"/>
+</a>
+<a href="https://github.com/joao-henrique">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</a>
 
----
+<br>
 
-## 💡 Sobre mim
-- 🌎 Brasileiro, apaixonado por tecnologia
-- 💻 Desenvolvedor com interesse em front e back
-- 🎨 Curto criar interfaces bonitas e funcionais
-- ⚡ Também adoro brincar com bancos de dados e automação
-- 📚 Sempre aprendendo algo novo e evoluindo no código
-
----
-
-## 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+Bem-vindo ao meu cantinho no GitHub! 🚀 Este é o lugar onde eu guardo meus projetos, estudos e algumas ideias que saem do papel.
 
 ---
 
-## 📊 Stats do GitHub
-![João Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight)
+### 💡 Sobre mim
+
+- 🌎 Brasileiro, apaixonado por tecnologia e programação.
+- 💻 Desenvolvedor com foco em **Front-end** e **Back-end**.
+- 🎨 Gosto de criar interfaces bonitas e experiências de usuário incríveis.
+- ⚡ Curto otimizar bancos de dados e criar automações para facilitar a vida.
+- 📚 Sempre aprendendo algo novo e buscando evoluir a cada `git commit`.
 
 ---
 
-## 🌐 Onde me encontrar
-- 📩 [Email](mailto:seuemail@email.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-link)  
-- 🐙 Aqui no [GitHub](https://github.com/joao-henrique)  
+### 🛠️ Minha Tech Stack
+
+<p align="left">
+  <strong>Linguagens:</strong><br>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
+<p align="left">
+  <strong>Front-End:</strong><br>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  </p>
+<p align="left">
+  <strong>Back-End & Bancos de Dados:</strong><br>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+</p>
 
 ---
 
-✨ Programar pra mim é transformar ideias em algo real.  
-Seja no front, back ou até mexendo em banco de dados, tô sempre disposto a aprender e criar coisas novas 🚀
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="mailto:seuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/seu-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+
+---
+
+> ✨ Programar para mim é transformar ideias em algo real. Seja no front, back ou até mexendo em banco de dados, estou sempre disposto a aprender e criar coisas novas.
