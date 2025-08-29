@@ -4,9 +4,7 @@
   <a href="https://github.com/joao-henrique">
     <img src="https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/joao-henrique">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
-  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 ---
@@ -17,7 +15,7 @@
 - 💻 Full-stack developer with a focus on **Front-end** & **Back-end**.  
 - 🎨 Love designing beautiful, responsive interfaces and great user experiences.  
 - ⚡ Enjoy working with databases and automations to optimize workflows.  
-- 📚 Lifelong learner, always exploring new languages and frameworks.  
+- 📚 Lifelong learner, always exploring new languages, frameworks, and tools.  
 
 ---
 
@@ -37,6 +35,9 @@
   <strong>Front-End</strong><br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="JSX" src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -64,4 +65,4 @@
 ---
 
 ✨ *"Coding for me is about turning ideas into reality.  
-From front-end to back-end, and even databases, I’m always ready to learn, build and improve."* 🚀
+From front-end with React & Tailwind to back-end and databases, I’m always ready to learn, build and improve."* 🚀
