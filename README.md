@@ -9,16 +9,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joao-henrique&theme=tokyonight&border_radius=5" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 💡 About Me
 
 - 🌎 Brazilian, passionate about **technology** and **software development**.  
-- 💻 Full-stack developer with focus on **Front-end** & **Back-end**.  
+- 💻 Full-stack developer with a focus on **Front-end** & **Back-end**.  
 - 🎨 Love designing beautiful, responsive interfaces and great user experiences.  
 - ⚡ Enjoy working with databases and automations to optimize workflows.  
 - 📚 Lifelong learner, always exploring new languages and frameworks.  
@@ -63,18 +59,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-## 📈 Extras
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao-henrique&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/joao-henrique/joao-henrique/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
