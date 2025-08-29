@@ -9,7 +9,7 @@
 
 <br>
 
-Bem-vindo ao meu cantinho no GitHub! 🚀 Este é o lugar onde eu guardo meus projetos, estudos e algumas ideias que saem do papel.
+Bem-vindo ao meu cantinho no Git! 🚀 Este é o lugar onde eu guardo meus projetos, estudos e algumas ideias que saem do papel.
 
 ---
 
@@ -53,8 +53,8 @@ Bem-vindo ao meu cantinho no GitHub! 🚀 Este é o lugar onde eu guardo meus pr
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="mailto:seuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/seu-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:joaohenrique1025152@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
 ---
