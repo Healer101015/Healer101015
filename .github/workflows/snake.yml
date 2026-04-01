@@ -1,31 +1,38 @@
-name: Generate Snake
-
+name: Metrics
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" # Executa uma vez por dia
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    permissions:
+      contents: write
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: Healer101015
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          token: ${{ secrets.METRICS_TOKEN }} # Você precisará criar um Personal Access Token
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Configurações do layout
+          user: Healer101015
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Adicionando o "jogo" de conquistas (Habitants/Isometric view)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Plugin de Linguagens (mostra o que você mais usa)
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          # Plugin de Conquistas (estilo medalhas de jogo)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
