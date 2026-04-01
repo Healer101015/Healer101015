@@ -1,55 +1,57 @@
-# 👨‍💻 João Henrique Brito
+# ⚡ JOÃO HENRIQUE BRITO ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+NestJS+%7C+Laravel+%7C+React;Building+modern+and+scalable+applications;Frontend+%2B+Backend+%3D+Complete+Solutions" />
-</p>
+🔥 FULL STACK DEVELOPER | JAVA • NESTJS • LARAVEL • REACT 🔥
 
-## 🚀 About Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🇧🇷 Brazilian developer passionate about technology  
-- 💻 Full Stack Developer (Front + Back)  
-- ⚙️ Strong focus on APIs, databases and scalability  
-- 🎨 UI/UX lover — clean and responsive interfaces  
-- 📚 Always learning and evolving  
+🚀 ABOUT ME
 
-## 📊 GitHub Stats
+Brazilian developer focused on building modern, scalable and high-performance applications.
+Strong experience in front-end, back-end, APIs, databases and automation.
+Passionate about clean UI/UX and efficient system design.
+Always learning, evolving and pushing technical limits.
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&theme=tokyonight"/>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🧠 Tech Stack
+🧠 TECH STACK
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,kotlin,c" />
-</p>
+Languages:
+Java • JavaScript • TypeScript • Python • PHP • Kotlin • C
 
-### 🎨 Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+Front-End:
+React • HTML • CSS • Tailwind
 
-### ⚙️ Back-End (🔥 destaque)
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
-</p>
+Back-End:
+Node.js • NestJS • Laravel
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
+Databases:
+MongoDB • MySQL • SQLite
 
-## 💎 What I Do
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔹 Build modern front-end interfaces with React + Tailwind
-- 🔹 Develop scalable APIs with Node.js & NestJS
-- 🔹 Create robust systems using Laravel
-- 🔹 Work with relational and non-relational databases
-- 🔹 Deliver full-stack solutions from idea to production
+💎 WHAT I DO
 
-## ⚔️ Mindset
+• Build modern and responsive interfaces  
+• Create scalable APIs and backend systems  
+• Design robust architectures with NestJS & Laravel  
+• Work with structured and non-structured data  
+• Deliver complete full-stack solutions  
 
-I don’t just write code — I build solutions.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚔️ MINDSET
+
+I don’t just write code — I build systems that scale.
+From powerful backend architectures to clean and modern interfaces,
+I create solutions that are efficient, robust and impactful.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 CONTACT
+
+GitHub: https://github.com/Healer101015  
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/  
+Email: joaohenrique1025152@hotmail.com  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
