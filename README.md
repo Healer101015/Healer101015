@@ -1,11 +1,17 @@
 # 👋 Hi there, I'm João Henrique!
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Passionate+about+Technology;Always+learning+and+building" alt="Typing SVG" />
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/Healer101015">
-    <img src="https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Healer101015">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
   </a>
 </p>
 
@@ -18,6 +24,16 @@
 - 🎨 Love designing beautiful, responsive interfaces and great user experiences.  
 - ⚡ Enjoy working with databases and automations to optimize workflows.  
 - 📚 Lifelong learner, always exploring new languages, frameworks, and tools.  
+
+---
+
+## 🚀 Featured Projects
+
+*A space to showcase your best work! Add links to your repositories below:*
+
+- **[Internet Banking Application](#)** - A full-stack banking system built with React and Node.js.
+- **[SOLVPLACE](#)** - A responsive business website with smooth UI components.
+- **[E-commerce & Management](#)** - Custom web applications tailored for small businesses and service providers.
 
 ---
 
@@ -66,5 +82,7 @@
 
 ---
 
-✨ *"Coding for me is about turning ideas into reality.  
-From front-end with React & Tailwind to back-end and databases, I’m always ready to learn, build and improve."* 🚀
+<p align="center">
+  ✨ <em>"Coding for me is about turning ideas into reality. <br>
+  From front-end with React & Tailwind to back-end and databases, I’m always ready to learn, build and improve."</em> 🚀
+</p>
