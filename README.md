@@ -1,35 +1,29 @@
 # 👨‍💻 João Henrique Brito
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=22E56F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Node.js+%7C+React;Building+scalable+and+modern+applications;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+NestJS+%7C+Laravel+%7C+React;Building+modern+and+scalable+applications;Frontend+%2B+Backend+%3D+Complete+Solutions" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Healer101015">
-    <img src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  </a>
-  <a href="https://github.com/Healer101015">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&theme=tokyonight" height="160"/>
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 
-- 🇧🇷 Brazilian developer passionate about **technology & innovation**
-- 💻 Full Stack Developer focused on **Java, Node.js & React**
-- 🎨 Strong interest in **UI/UX and responsive interfaces**
-- ⚙️ Experience with **APIs, databases and automation**
-- 📚 Constant learner, always improving skills and exploring new tools
+- 🇧🇷 Brazilian developer passionate about technology  
+- 💻 Full Stack Developer (Front + Back)  
+- ⚙️ Strong focus on APIs, databases and scalability  
+- 🎨 UI/UX lover — clean and responsive interfaces  
+- 📚 Always learning and evolving  
 
----
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🧠 Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin,c" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,kotlin,c" />
 </p>
 
 ### 🎨 Front-End
@@ -37,27 +31,25 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### ⚙️ Back-End & Databases
+### ⚙️ Back-End (🔥 destaque)
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:joaohenrique1025152@hotmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
----
+## 💎 What I Do
 
-## ⚡ Quote
+- 🔹 Build modern front-end interfaces with React + Tailwind
+- 🔹 Develop scalable APIs with Node.js & NestJS
+- 🔹 Create robust systems using Laravel
+- 🔹 Work with relational and non-relational databases
+- 🔹 Deliver full-stack solutions from idea to production
 
-> *"Coding is about turning ideas into reality.  
-> From front-end to back-end, I build, learn, and evolve every day."* 🚀
+## ⚔️ Mindset
+
+I don’t just write code — I build solutions.
+
