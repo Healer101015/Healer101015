@@ -69,11 +69,6 @@ const joaoHenrique = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0095D5&icon_color=7AA2F7&text_color=C9D1D9&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&text_color=C9D1D9" />
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Healer101015&theme=tokyonight&hide_border=true&background=0D1117&stroke=0095D5&ring=0095D5&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
