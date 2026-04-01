@@ -83,16 +83,6 @@ const joaoHenrique = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D1117&color=7AA2F7&line=0095D5&point=FFFFFF&area=true&area_color=0095D530&hide_border=true&custom_title=Atividade%20de%20Contribuições" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Healer101015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
