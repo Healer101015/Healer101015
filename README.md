@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0095D5&center=true&vCenter=true&width=600&lines=Fala+a%C3%AD,+eu+sou+o+Jo%C3%A3o+Henrique!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0095D5&center=true&vCenter=true&width=600&lines=ola+a%C3%AD,+eu+sou+o+Jo%C3%A3o+Henrique!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -31,16 +31,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/joao-henrique">
-    <img src="https://github-readme-stats.vercel.app/api?username=joao-henrique&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="160" alt="GitHub Stats"/>
+  <a href="https://github.com/Healer101015">
+    <img src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="160" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/joao-henrique">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+  <a href="https://github.com/Healer101015">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joao-henrique&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Healer101015&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -61,9 +61,9 @@
 ## 🐍 Extras
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao-henrique&label=Profile%20Views&color=0095D5&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Healer101015&label=Profile%20Views&color=0095D5&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/joao-henrique/joao-henrique/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/Healer101015/Healer101015/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
