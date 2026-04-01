@@ -69,20 +69,20 @@ const joaoHenrique = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-henrique10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0095D5&icon_color=7AA2F7&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-henrique10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Healer101015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0095D5&icon_color=7AA2F7&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Healer101015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0095D5&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-henrique10&theme=tokyonight&hide_border=true&background=0D1117&stroke=0095D5&ring=0095D5&fire=7AA2F7&currStreakLabel=7AA2F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Healer101015&theme=tokyonight&hide_border=true&background=0D1117&stroke=0095D5&ring=0095D5&fire=7AA2F7&currStreakLabel=7AA2F7" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-henrique10&bg_color=0D1117&color=7AA2F7&line=0095D5&point=FFFFFF&area=true&area_color=0095D520&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D1117&color=7AA2F7&line=0095D5&point=FFFFFF&area=true&area_color=0095D520&hide_border=true" />
 
 </div>
 
@@ -92,7 +92,7 @@ const joaoHenrique = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joao-henrique10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Healer101015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -103,14 +103,12 @@ const joaoHenrique = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-henrique10/joao-henrique10/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao-henrique10/joao-henrique10/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joao-henrique10/joao-henrique10/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Healer101015/Healer101015/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Healer101015/Healer101015/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Healer101015/Healer101015/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-
-> ⚠️ Para ativar a snake: vá em **Settings → Actions → General → Workflow permissions** e habilite "Read and write permissions". Depois crie o arquivo `.github/workflows/snake.yml` com o action de geração.
 
 ---
 
@@ -124,7 +122,7 @@ const joaoHenrique = {
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/joao-henrique10">
+<a href="https://github.com/Healer101015">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -136,7 +134,7 @@ const joaoHenrique = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=joao-henrique10&label=Visualizações+do+Perfil&color=0095D5&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Healer101015&label=Visualizações+do+Perfil&color=0095D5&style=flat-square" />
 
 <br/><br/>
 
