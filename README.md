@@ -40,7 +40,7 @@ const joaoHenrique = {
 | 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance |
 |---|---|
 | 🌱 Aprendendo | Arquitetura de sistemas e Cloud |
-| 💬 Pergunte-me sobre | JavaScript, TypeScript, React, Node.js |
+| 💬 Pergunte-me sobre | Java, JavaScript, TypeScript, React, Node.js |
 | 📫 Contato | joaohenrique1025152@hotmail.com |
 | ⚡ Fun fact | Todo bug é uma feature não documentada 🐛 |
 
