@@ -1,23 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:FF2E88,70:9D00FF,100:00FFF7&height=230&section=header&text=JO%C3%83O%20HENRIQUE&fontSize=64&fontColor=00FFF7&fontAlignY=36&desc=%3C%20FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20DREAMER%20%3E&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:8B00FF,100:00FFF7&height=260&section=header&text=JO%C3%83O%20HENRIQUE&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%3C%20FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20DREAMER%20%3E&descAlignY=58&descSize=17&descColor=00FFF7" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Henrique_;%3E+Full-Stack+Developer+%5B%3D%5D;%3E+Compilando+ideias+em+c%C3%B3digo...;%3E+System.status%3A+ONLINE_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&multiline=false&width=700&height=35&lines=%3E+Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Henrique_;%3E+Full-Stack+Developer;%3E+Compilando+ideias+em+c%C3%B3digo...;%3E+system.status%3A+ONLINE_)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-FF2E88?style=for-the-badge&labelColor=0D0221&logo=probot&logoColor=00FFF7" />
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL_🇧🇷-9D00FF?style=for-the-badge&labelColor=0D0221&logo=googlemaps&logoColor=00FFF7" />
-<img src="https://img.shields.io/badge/LANGUAGES-6%2B-00FFF7?style=for-the-badge&labelColor=0D0221&logo=speedtest&logoColor=FF2E88" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0D0221&logo=statuspage&logoColor=0D0221" />
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-FF2E88?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL_🇧🇷-8B00FF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/LANGUAGES-6%2B-00FFF7?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0D0221" />
 
 <br/><br/>
 
 <p>
   <a href="mailto:joaohenrique1025152@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2E88" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-brito-b583b61a2/"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00FFF7" /></a>
-  <a href="https://github.com/Healer101015"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=9D00FF" /></a>
+  <a href="https://github.com/Healer101015"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=8B00FF" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:8B00FF,100:FF2E88&height=3" />
 
 </div>
 
@@ -38,31 +40,37 @@ fun_fact   : "I believe every bug is just a feature in disguise" 🐛
 
 <table width="100%">
   <tr>
-    <td>🔭</td>
+    <td align="center">🔭</td>
     <td><b><code>TRABALHANDO_EM</code></b></td>
     <td>Projetos Full-Stack pessoais e freelance</td>
   </tr>
   <tr>
-    <td>🌱</td>
+    <td align="center">🌱</td>
     <td><b><code>APRENDENDO</code></b></td>
     <td>Arquitetura de sistemas e Cloud</td>
   </tr>
   <tr>
-    <td>💬</td>
+    <td align="center">💬</td>
     <td><b><code>PERGUNTE_SOBRE</code></b></td>
     <td>Java, JavaScript, TypeScript, React, Node.js</td>
   </tr>
   <tr>
-    <td>📫</td>
+    <td align="center">📫</td>
     <td><b><code>CONTATO</code></b></td>
     <td>joaohenrique1025152@hotmail.com</td>
   </tr>
   <tr>
-    <td>⚡</td>
+    <td align="center">⚡</td>
     <td><b><code>FUN_FACT</code></b></td>
     <td>Todo bug é uma feature não documentada 🐛</td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,50:8B00FF,100:00FFF7&height=3" />
+</div>
 
 <br/>
 
@@ -96,6 +104,12 @@ fun_fact   : "I believe every bug is just a feature in disguise" 🐛
 
 <br/>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:8B00FF,100:FF2E88&height=3" />
+</div>
+
+<br/>
+
 ## `>` GITHUB_STATS.dat
 
 <div align="center">
@@ -106,13 +120,13 @@ fun_fact   : "I believe every bug is just a feature in disguise" 🐛
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Healer101015&theme=radical&hide_border=true&background=0D0221&stroke=00FFF7&ring=FF2E88&fire=9D00FF&currStreakLabel=00FFF7&sideLabels=E0E0FF&dates=E0E0FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Healer101015&theme=radical&hide_border=true&background=0D0221&stroke=00FFF7&ring=FF2E88&fire=8B00FF&currStreakLabel=00FFF7&sideLabels=E0E0FF&dates=E0E0FF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D0221&color=00FFF7&line=FF2E88&point=FFFFFF&area=true&area_color=9D00FF&hide_border=true&custom_title=Atividade%20de%20Contribuições" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D0221&color=00FFF7&line=FF2E88&point=FFFFFF&area=true&area_color=8B00FF&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
 </div>
 
 <br/>
@@ -121,6 +135,12 @@ fun_fact   : "I believe every bug is just a feature in disguise" 🐛
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Healer101015&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,50:8B00FF,100:00FFF7&height=3" />
 </div>
 
 <br/>
@@ -152,8 +172,7 @@ fun_fact   : "I believe every bug is just a feature in disguise" 🐛
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,35:9D00FF,100:0D0221&height=130&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,50:8B00FF,100:0D0221&height=150&section=footer" />
 
-  <br/>
-  <sub>⚡ <code>designed with neon dreams & late-night coffee</code> ⚡</sub>
+  <sub>⚡ <code>designed with neon dreams &amp; late-night coffee</code> ⚡</sub>
 </div>
